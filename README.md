@@ -11,3 +11,11 @@ At my last job, we are developing front-end application using vanilla Web Compon
 - Web Components
 - Express.js
 - PostgreSQL
+
+## Planning
+
+Need to start with base components and work my way up, components need to have accessiblity in mind, check [Vaadin Components](https://vaadin.com/docs/latest/components) for inspiration.
+- `<breeze-dialog>`
+- `<breeze-button>`
+- `<breeze-input-field>`
+- `<breeze-horizontal-layout>`
