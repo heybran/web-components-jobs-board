@@ -1,0 +1,36 @@
+{
+  "name": "web-components-saaskit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An vanilla JavaScript (Web Components) SaaS Kit demo project with Node.js/Postgres as backend.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heybran/web-components-saaskit.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Web",
+    "Components"
+  ],
+  "author": "Brandon Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heybran/web-components-saaskit/issues"
+  },
+  "homepage": "https://github.com/heybran/web-components-saaskit#readme",
+  "dependencies": {
+    "breeze-router": "^0.1.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "prettier": "^3.0.0",
+    "pretty-quick": "^3.1.3",
+    "vite": "^4.4.6"
+  }
+}
